@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../c++ new"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../CP questions '"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp"
+    }
+  }
+}
